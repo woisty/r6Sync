@@ -10,6 +10,7 @@ Python 3 (& [PyInstaller](https://pyinstaller.org/en/stable/) for your own 'comp
 Place the ``.exe`` in your setting's folder and have your desired ``GameSettings.ini`` file outside of all the folders. **It'll only work if there is an already existing GameSettings.ini in the folder.**
 
 Setup / File Structure example:
+
 !['account 1' and 'account 2' will be your UID instead, they're just examples.](https://cdn.discordapp.com/attachments/1278054402296512625/1284624239277772810/image.png?ex=66e74f0d&is=66e5fd8d&hm=b3f247b9231203bf69d5a02a22c3eae37af3bfcab48fbeacf26b176d48fe7272&)
 
 To turn it into a ``.exe`` from source, do the following:
